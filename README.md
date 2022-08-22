@@ -6,6 +6,6 @@
   <h3 align="center">slanxed</h3>
 
   <p align="center">
-    the man in your knightmares
+    the one you see in your knightmares
   </p>
  </div>
